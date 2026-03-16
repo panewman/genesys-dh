@@ -1,0 +1,5 @@
+# Haywire (Active)
+When activating Haywire, the attacker chooses one piece of technology within engaged range of the target, which can include items held, worn or wielded by the target. That item is damaged one step: to minor if undamaged, from minor to moderate, or from moderate to major. If an item already suffering major damage is the target of a successful Haywire, it is rendered inoperable. The piece of technology targeted must be sufficiently electronic in nature; a flintlock rifle or a revolver does not rely on electronics to function, and as such would not be affected, whereas a plasma rifle would be an eligible target. This is ultimately up to the GM’s discretion.
+
+Haywire requires #GenesysAdvantage to activate, and may be activated even if the attack is unsuccessful. Hay- wire may be activated multiple times in the same attack, and each activation may be applied to a different item. Alternatively, the same item can be targeted multiple times, potentially taking it from undamaged to destroyed in a single attack.
+#setting/wh40k 

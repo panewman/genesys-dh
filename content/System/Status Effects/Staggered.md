@@ -1,0 +1,2 @@
+# Staggered
+A staggered character cannot perform actions (including downgrading actions to maneuvers). Most effects that stagger a character last for a set duration. If a set duration is not specified, the staggered effect lasts until the end of the character’s next turn. If a character is staggered multiple times, each instance increases the total duration of the effect by the instance’s specified duration, but may not increase the total duration beyond the scope of the present encounter.

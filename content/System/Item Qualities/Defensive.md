@@ -1,0 +1,2 @@
+# Defensive (passive)
+An item with the Defensive quality increases the user’s melee defense by its Defensive rating.

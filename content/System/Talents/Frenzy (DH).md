@@ -1,0 +1,7 @@
+# Frenzy
+**Tier:** 2  
+**Activation:** Active-action  
+**Ranked:** No  
+Your character can enter a Frenzied state as an action. While Frenzied, your character adds #GenesysSuccess #GenesysAdvantage #GenesysAdvantage to all melee combat checks they make. However, opponents add #GenesysSuccess to all combat checks targeting your character. While Frenzied, your character cannot make ranged combat checks. While Frenzied, the character must attack the nearest enemy in melee combat if possible. If they are not engaged with the nearest enemy, they must move towards that enemy and engage it if possible. They will not take obviously suicidal actions such as leaping off a building in order to engage someone on the ground, but they will take any actions that offer a reasonable opportunity to engage in melee combat with the nearest enemy. Frenzy automatically ends if the character is incapacitated. After combat ends, or if there are no more eligible enemy targets for the character to attack, they can make an Average ( #GenesysDifficulty #GenesysDifficulty ) Cool check to snap out of their Frenzy. If they fail, they must continue to attack, favouring NPCs over PCs. On each of their subsequent turns, the character may re-attempt the check, decreasing the difficulty once each time (to a minimum of Simple (-)). After Frenzy ends, the character suffers 6 strain.  
+#setting/wh40k #combat  
+$_{Source:}$ $_{DH,}$ $_{p.}$ $_{63}$  

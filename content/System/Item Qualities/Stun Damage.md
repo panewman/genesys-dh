@@ -1,0 +1,2 @@
+# Stun Damage (passive)
+A weapon with this quality can only deal strain damage (damage applied to the target’s strain threshold). Because this is strain damage, not strain, it is still reduced by a target’s soak.

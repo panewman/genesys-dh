@@ -1,0 +1,2 @@
+# Reinforced (passive)
+Weapons or items with the Reinforced quality are immune to the Sunder quality. Armor with the Reinforced quality make the wearer’s soak immune to the Pierce and Breach qualities.

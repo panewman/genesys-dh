@@ -1,0 +1,2 @@
+# Superior (passive)
+A Superior item is a sterling example of its kind, representing masterful craftsmanship. A Superior item generates automatic #GenesysAdvantage on all checks related to its use.

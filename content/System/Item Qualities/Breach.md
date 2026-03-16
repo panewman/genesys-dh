@@ -1,0 +1,3 @@
+# Breach (passive)
+Weapons with Breach burn through the toughest armor; they are often heavy weapons or weapons
+mounted on some sort of vehicle. Hits from weapons with the Breach quality ignore one point of vehicle armor for every rating of Breach (meaning they also ignore 10 soak for every rating of Breach).

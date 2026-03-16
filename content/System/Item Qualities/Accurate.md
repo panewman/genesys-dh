@@ -1,0 +1,2 @@
+# Accurate (passive)
+Accurate weapons are easier to aim or wield, whether through design or technology. For each level of this quality, the attacker adds #GenesysBoost to their combat checks while using this weapon.

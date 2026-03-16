@@ -1,0 +1,7 @@
+# Custom Rig
+**Tier:** 1  
+**Activation:** Passive  
+**Ranked:** Yes  
+When your character selects this talent they choose one computer (such as a rig, PAD, or spinal modem) that they own. The amount of ice or icebreakers (your character’s choice) that they can have on that computer is increased by 1 per rank of Custom Rig. (This may be a mix of ice and icebreakers, as long as the combined total increase does not exceed your character’s ranks in Custom Rig). If your character loses their affected computer, they may choose a new computer to be affected by this talent.  
+#setting/cyberpunk #setting/sotb #setting/science-fiction  
+$_{Source:}$ $_{SotB,}$ $_{p.}$ $_{44}$  

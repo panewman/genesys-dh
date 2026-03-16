@@ -1,0 +1,4 @@
+# Guided (active)
+A weapon with the Guided quality can track opponents. The Guided quality can only be triggered if an attack misses. If Guided is triggered, the controlling character may make a combat check at the end of the round as an out-of-turn incidental. The difficulty of this combat check is Average ( #GenesysDifficulty #GenesysDifficulty ); instead of building the ability of the pool normally, add #GenesysAbility equal to the weapon’s Guided rating. If the check is successful, the weapon strikes the target, and the attack is resolved normally.
+
+Guided requires #GenesysAdvantage #GenesysAdvantage #GenesysAdvantage to activate, unless otherwise specified in the weapon’s description. The Guided quality can activate on any subsequent combat check it makes, representing the projectile continuing to track the target.

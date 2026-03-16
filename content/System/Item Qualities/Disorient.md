@@ -1,0 +1,2 @@
+# Disorient (active)
+A weapon with Disorient can daze an opponent. When Disorient is triggered, one target hit by the attack is [[Disoriented|disoriented (see page 114)]]  for a number of rounds equal to the weapon’s Disorient rating. A disoriented target adds #GenesysSetback  to all skill checks they perform. If multiple targets suffer hits from a weapon with Disorient, the quality may be triggered multiple times, affecting a different target each time.

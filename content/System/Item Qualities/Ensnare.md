@@ -1,0 +1,4 @@
+# Ensnare (active)
+A weapon with Ensnare binds a foe and restricts their movements. When Ensnare is triggered, one target hit by the attack becomes [[Immobilized|immobilized (see page 114)]]  for a number of rounds equal to the weapon’s Ensnare rating. An immobilized target cannot perform maneuvers. If multiple targets suffer hits from a weapon with Ensnare, the quality may be triggered multiple times, affecting a different target each time.
+
+An Ensnared target may perform an action to attempt a Hard ( #GenesysDifficulty #GenesysDifficulty  #GenesysDifficulty ) Athletics check on their turn to break free from the effect.

@@ -1,0 +1,2 @@
+# Inaccurate (passive)
+Inaccurate weapons are less likely to be accurate or precise. When making an attack with an Inaccurate weapon, add #GenesysSetback to the check equal to the Inaccurate rating.
