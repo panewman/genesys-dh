@@ -1,7 +1,7 @@
 @use "./base.scss";
 
 /** formatting stuff for Genesys **/
-body a.tag-link[href$="GenesysDifficulty"] {
+body a.tag-link[href$="GenesysAbility"] {
   /* Taken from original CSS */
   display: inline-flex;
   align-self: center;
@@ -36,6 +36,23 @@ body a.tag-link[href$="GenesysBoost"] {
 }
 
 body a.tag-link[href$="GenesysChallenge"] {
+  /* Taken from original CSS */
+  display: inline-flex;
+  align-self: center;
+  top: 0.175em;
+  position: relative;
+  height: 1em;
+  width: 1em;
+  border: 0;
+  /* Added to try and deal with themes */
+  background-color: transparent;
+  font-size: var(--editor-font-size);
+  padding: 1px;
+  border-radius: 0;
+  vertical-align: baseline;
+}
+
+body a.tag-link[href$="GenesysDifficulty"] {
   /* Taken from original CSS */
   display: inline-flex;
   align-self: center;
